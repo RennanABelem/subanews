@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>Kyriu Kazuma</h1>
+    return <h1>Convite do Karaoke - Kyriu Kazuma</h1>
 }
 
 export default Home;
