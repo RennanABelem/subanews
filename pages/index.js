@@ -1,10 +1,5 @@
 function Home() {
-  return (
-    <h1>
-      Hackeando sua conta bancaria e roubando seus vouchers da google....
-      confirmado, Obrigado Doug "mensagem veridifica"
-    </h1>
-  );
+  return <h1>Eu amo minha sapolinha 🐸❤️</h1>;
 }
 
 export default Home;
