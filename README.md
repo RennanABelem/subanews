@@ -5,7 +5,7 @@
 [![Node.js](https://img.shields.io/badge/Node.js-18-green?style=flat-square)](https://nodejs.org/)
 [![Vercel](https://img.shields.io/badge/Deploy-Vercel-black?style=flat-square)](https://vercel.com/)
 
-Projeto desenvolvido como parte do acompanhamento do [curso.dev](https://curso.dev) para prática de front-end e deploy de aplicações web.
+Projeto desenvolvido como parte do acompanhamento para prática de node front-end e deploy de aplicações web.
 
 ---
 
